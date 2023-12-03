@@ -2,9 +2,10 @@
 
 ![Version](https://img.shields.io/badge/version-1.0.5-success)
 
-![App Screen](./src/assets/app-screen.png)
+"Elevate your meme game with this React-powered Meme Generator, where you can upload images, add your humor, and position text like a pro for instant laughter."
 
-Simple project to create custom memes. [See it live](https://pd-meme-generator.netlify.app/).
+React JS project to create custom memes. 
+[See it live](https://pd-meme-generator.netlify.app/).
 
 ### Under the hood
 
